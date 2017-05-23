@@ -1,0 +1,3 @@
+rootProject.name = 'SoundBoard'
+
+include ':app'
